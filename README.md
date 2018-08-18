@@ -8,7 +8,7 @@ Usage
 
 Gradle
 
-implementation 'com.github.ahmed2146:CatLoadingTest:v6.5'
+	implementation 'com.github.ahmed2146:CatLoadingTest:v6.5'
 
 How to use:
 
