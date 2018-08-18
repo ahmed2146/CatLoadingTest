@@ -12,12 +12,12 @@ implementation 'com.github.ahmed2146:CatLoadingTest:v6.5'
 
 How to use:
 
-CatLoadingView cview;
+	CatLoadingView cview;
 
-cview = new CatLoadingView();
+	cview = new CatLoadingView();
 
 		cview.setClickCancelAble(true);
 
 		cview.setText("Loading, Please wait... ");
 
-cview.show(getSupportFragmentManager(),""); // to show
+	cview.show(getSupportFragmentManager(),""); // to show
